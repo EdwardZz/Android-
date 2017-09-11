@@ -10,7 +10,7 @@
 加入TabLayout布局代码，设置id和属性。  
 加入ViewPager的布局代码，设置id和属性。  
 代码如下图：  
-![MainActivity_Layout](image/MainActivity_Layout.png)  
+![](image/MainActivity_Layout.png)  
 
 ## 2.关于主界面逻辑代码的书写：
 - 申请几个私有变量mTablayout mViewPager mTitle mFragment
