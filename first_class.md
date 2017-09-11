@@ -10,7 +10,7 @@
 * UtilTools  
 * StaticClass  
 
-##具体步骤：
+## 具体步骤：
 ### 一
 - 路径：app--src--main--java--com...  
 - 新建package 分别命名为adapter application entity  
@@ -26,7 +26,7 @@ android:name=".application.BaseApplication"
 drawable-xxhdpi drawable-xxxhdpi
 - 新建values-zh文件夹，新建values-en文件夹
 ### 三
--路径回到一中建立的utils包下，新建一个utilTool工具类，StaticClass类
+- 路径回到一中建立的utils包下，新建一个utilTool工具类，StaticClass类
 
-##tips:
+## tips:
 settings--搜索code--file and code Temlates--class Header
